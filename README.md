@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me mishra.aditya22@outlook.com
+- 📫 Please email me at mishra.aditya22@outlook.com to reach me
 
 <!---
 aditya2220/aditya2220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
